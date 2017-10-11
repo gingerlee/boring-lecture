@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+
+h2.intro {
+  text-transform: uppercase;
+  font-family: cursive;
+}
+
+p.intro {
+  color: #0f0;
+}
+
+img.intro {
+  text-align: center;
+  height: 200px;
+}
